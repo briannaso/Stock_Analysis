@@ -27,5 +27,6 @@ One advantage to refactoring code is the speed up the time that it processes tha
 <img width="690" alt="AllStocksAnalysis_2018" src="https://user-images.githubusercontent.com/88520573/144952555-d7990ae1-7042-4d65-946d-55e1e4f7593c.png">
 
 #### Refactored Code Results
-<img width="693" alt="AllStocksRefactored_2017" src="https://user-images.githubusercontent.com/88520573/144952038-868202f6-5cb5-44f4-bb2a-dd04ca256998.png">
-<img width="693" alt="AllStocksRefactored_2018" src="https://user-images.githubusercontent.com/88520573/144952043-6b36529b-0501-4aae-807a-0a2b6c3f93ef.png">
+<img width="693" alt="VBA Challenge_2017" src="https://user-images.githubusercontent.com/88520573/144952951-9c473913-3b96-4118-83ba-b2c4f004c2b2.png">
+<img width="693" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/88520573/144952955-e246ec73-98d3-4acb-ba6f-1a822b6d3a75.png">
+
